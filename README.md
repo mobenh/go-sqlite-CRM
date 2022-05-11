@@ -23,7 +23,7 @@ go run main.go
 ```
 
 * Test APIs with Postman
-  * Create a POST request to add data with http://localhost:3000/api/v1/lead
+  * Create a POST request to add data with localhost:3000/api/v1/lead
   ```
   {
     "ID": 2,
