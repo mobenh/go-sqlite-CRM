@@ -27,9 +27,9 @@ go run main.go
   ```
   {
     "ID": 2,
-    "name": "Sayed Haque",
+    "name": "Moben Haq",
     "company": "Amazon",
-    "email": "sayedh@amazon.com",
+    "email": "mobenh@amazon.com",
     "phone": 829923345345
   }
   ```
