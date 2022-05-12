@@ -33,6 +33,6 @@ go run main.go
     "phone": 829923345345
   }
   ```
-  * Create a GET request to get data by id with http://localhost:3000/api/v1/lead/1 (<-- 1 here is the ID, you can change to desired ID)
-  * Create a GET request to get all data with http://localhost:3000/api/v1/lead
-  * Create a DELETE request with http://localhost:3000/api/v1/lead/2 (<-- 2 here is the ID, you can change to desired ID)
+  * Create a GET request to get data by id with localhost:3000/api/v1/lead/1 (<-- 1 here is the ID, you can change to desired ID)
+  * Create a GET request to get all data with localhost:3000/api/v1/lead
+  * Create a DELETE request with localhost:3000/api/v1/lead/2 (<-- 2 here is the ID, you can change to desired ID)
